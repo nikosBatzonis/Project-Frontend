@@ -1,0 +1,28 @@
+.col {
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+
+.name {
+    padding-left: 2%;
+    padding-top: 3%;
+}
+
+.text {
+    font-family: "Scheherazade", serif;
+    font-size: 25px;
+}
+
+.text-width {
+    font-family: "Scheherazade", serif;
+    font-size: 34px;
+}
+
+.title {
+    font-family: "Cinzel Decorative", cursive;
+    padding-bottom: 10px;
+}
+
+span {
+    padding-left: 20px;
+}
